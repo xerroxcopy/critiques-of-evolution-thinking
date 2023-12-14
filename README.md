@@ -23,7 +23,7 @@
 ## 著者に連絡する
 
 伊藤 [Twitter](https://twitter.com/itojundesign) [産業デザイン研究所](https://rcfi.design/) [researchmap](https://researchmap.jp/itojun)
-林 [Twitter](https://twitter.com/kamefuji) [ブログ](http://kamefuji-lab.seesaa.net/) [researchmap](https://researchmap.jp/turtle_barnacle)
+林  [researchmap](https://researchmap.jp/turtle_barnacle)
 松井 [Twitter](https://twitter.com/minoru_matsui) [CV page](https://xerroxcopy.github.io) [researchmap](https://researchmap.jp/xerroxcopy)
 
 
