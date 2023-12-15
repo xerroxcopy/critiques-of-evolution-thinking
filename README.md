@@ -23,17 +23,14 @@
 
 ### PDF版V1.1.0と[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)との差異
 
-上記[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)で`V1.1.0で対応済`とされていないもので、Errataには分類されないような改善や差異についてまとめています。
-- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)には[トンボ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%9C_(%E5%8D%B0%E5%88%B7))が打たれています。**V1.1.0にはトンボは打たれていません。**
-- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の図表はすべてグレースケールになっています。**V1.1.0では図表はカラーで表示されます。**
-- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の脚注や引用文献は番号をクリックしても該当するページにジャンプしません。**V1.1.0では機能します。**
-- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の外部ウェブサイトへのハイパーリンクは機能しません。**V1.1.0では機能します。**
-- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)には本文の内容にいくつかの修正が施されていません。**V1.1.0では修正されています。**
+
+- **V1.1.0では図表はカラーで表示されます。**[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の図表はすべてグレースケールになっています。
+- V1.1.0では脚注や引用文献は番号をクリックしても該当するページにジャンプします。
+- V1.1.0では外部ウェブサイトへのハイパーリンクが貼られています。
+- V1.1.0では本文の内容にいくつかの修正が施されています（[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)を参照）。
 - 
-- カバー表紙
-    - [x] 扉をカバー表紙に差し替えました Completed
-- 扉
-    - [x] CC BY 4.0ライセンスを追加しました Completed
+- 扉がカラーのカバー表紙になっています。
+- CC BY 4.0ライセンスを明記しました。
 
 # 著者について
 
