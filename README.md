@@ -2,9 +2,9 @@
 
 # 『進化思考批判集』のサポートページ
 
-太刀川(2021)『進化思考: 生き残るコンセプトをつくる「変異と適応」』第1版を批判した、伊藤, 林, 松井(2023)『進化思考批判集: デザインと進化学の観点から』のサポートページです。書籍の電子書籍版はPDF（V1.0.0)として2023-12-15に本サポートページからリリースを予定しています。
+太刀川(2021)『進化思考: 生き残るコンセプトをつくる「変異と適応」』第1版を批判した、伊藤, 林, 松井(2023)『進化思考批判集: デザインと進化学の観点から』のサポートページです。書籍の電子書籍版はインタラクティブなPDF（V1.1.0）として2023-12-15に本サポートページからリリースを予定しています。
 
-紙版の書籍は[Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E9%80%B2%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89-%E4%BC%8A%E8%97%A4%E6%BD%A4/dp/4991298814/ref=sr_1_1?crid=MVZXUP99M6JN&keywords=%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86&qid=1702548135&sprefix=%2Caps%2C374&sr=8-1)やお近くの書店から¥2200で購入可能です。
+印刷版の書籍は[Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E9%80%B2%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89-%E4%BC%8A%E8%97%A4%E6%BD%A4/dp/4991298814/ref=sr_1_1?crid=MVZXUP99M6JN&keywords=%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86&qid=1702548135&sprefix=%2Caps%2C374&sr=8-1)やお近くの書店から¥2200で購入可能です。
 
 出版局のウェブサイトは[こちら](http://press.rcfi.design/)。本書の書誌情報ページは準備中です。
 
@@ -15,19 +15,25 @@
 
 ## changelogs & todos
 
-### PDF版v1.0.0と紙版との差異
 
-- カバー表紙
-    - [ ] 扉をカバー表紙に差し替えました Not started
-- 扉
-    - [x] CC BY 4.0ライセンスを追加しました Completed
-- 10章
-    - [x]  p.343のFigure 39の上下左右が反転していたため修正しました Completed
 
-## 紙版書籍の正誤表
+### 印刷版書籍の正誤表
 
 [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)
 
+### PDF版V1.1.0と[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)との差異
+
+上記[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)で`V1.1.0で対応済`とされていないもので、Errataには分類されないような改善や差異についてまとめています。
+- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)には[トンボ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%9C_(%E5%8D%B0%E5%88%B7))が打たれています。**V1.1.0にはトンボは打たれていません。**
+- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の図表はすべてグレースケールになっています。**V1.1.0では図表はカラーで表示されます。**
+- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の脚注や引用文献は番号をクリックしても該当するページにジャンプしません。**V1.1.0では機能します。**
+- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の外部ウェブサイトへのハイパーリンクは機能しません。**V1.1.0では機能します。**
+- [印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)には本文の内容にいくつかの修正が施されていません。**V1.1.0では修正されています。**
+- 
+- カバー表紙
+    - [x] 扉をカバー表紙に差し替えました Completed
+- 扉
+    - [x] CC BY 4.0ライセンスを追加しました Completed
 
 # 著者について
 
@@ -48,6 +54,45 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8S6EKX)
 
-# License
+## License
 
 **Critiques of** *Evolution Thinking* **: From design and evolutionary perspectives** © 2023 by Ito Jun, Hayashi Ryota, & Matsui Minoru is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated  otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+## Cite this book
+
+印刷版：
+```bibtex
+@BOOK{2023-rd,
+  title     = "進化思考批判集: デザインと進化学の観点から",
+  author    = "伊藤, 潤 and 林, 亮太 and 松井, 実",
+  editor    = "伊藤, 潤",
+  publisher = "産業デザイン研究所出版局",
+  edition   =  1,
+  month     =  dec,
+  year      =  2023,
+  url       = "https://github.com/xerroxcopy/critiques-of-evolution-thinking",
+  address   = "Tokyo",
+  copyright = "CC BY 4.0",
+  language  = "ja",
+  isbn      = "9784991298813"
+}
+```
+
+電子書籍版：
+```bibtex
+@BOOK{2023-ls,
+  title     = "進化思考批判集: デザインと進化学の観点から [{PDF版}]",
+  author    = "伊藤, 潤 and 林, 亮太 and 松井, 実",
+  editor    = "伊藤, 潤",
+  publisher = "産業デザイン研究所出版局",
+  edition   = "1.1.0",
+  month     =  dec,
+  year      =  2023,
+  url       = "https://github.com/xerroxcopy/critiques-of-evolution-thinking",
+  address   = "Tokyo",
+  copyright = "CC BY 4.0",
+  language  = "ja",
+  isbn      = "9784991298820"
+}
+
+```
