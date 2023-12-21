@@ -1,11 +1,11 @@
 <img src="https://github.com/xerroxcopy/critiques-of-evolution-thinking/assets/13182777/e73d77e4-b61f-4db6-9791-c37d4408d383" width="400">
 
-# 『進化思考批判集: デザインと進化学の観点から』のサポートページ
+# 『進化思考批判集』のサポートページ
 
 太刀川(2021)『進化思考: 生き残るコンセプトをつくる「変異と適応」』第1版を批判した、伊藤, 林, 松井(2023)『進化思考批判集: デザインと進化学の観点から』のサポートページです。書籍の電子書籍版をインタラクティブなPDFとして[ダウンロード（最新版）](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases/latest/download/critiques-of-evolution-thinking.pdf)できます。最新版のリリースは[こちら](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases/latest)。PDF版の各バージョンは本サポートページの右下[releases](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases)から閲覧できます。
-印刷版の書籍は[Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E9%80%B2%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89-%E4%BC%8A%E8%97%A4%E6%BD%A4/dp/4991298814/ref=sr_1_1?crid=MVZXUP99M6JN&keywords=%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86&qid=1702548135&sprefix=%2Caps%2C374&sr=8-1)やお近くの書店から¥2200で購入可能です。
+印刷版の書籍は[Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E9%80%B2%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89-%E4%BC%8A%E8%97%A4%E6%BD%A4/dp/4991298814/ref=sr_1_1?crid=MVZXUP99M6JN&keywords=%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86&qid=1702548135&sprefix=%2Caps%2C374&sr=8-1)や出版局より直売で[産デ研書店](https://rcfi-design.stores.jp/items/65834e6c427a88049e0b5f46)、もしくはお近くの書店から¥2200で購入可能です。
 
-出版局のウェブサイトは[こちら](http://press.rcfi.design/)。本書の書誌情報ページは準備中です。
+出版局のウェブサイトは[こちら](http://press.rcfi.design/)。
 
 # 修正、正誤表など
 
@@ -22,6 +22,13 @@
 - PDF版では本文の内容にいくつかの修正が施されています（[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)を参照）。
 - PDF版では扉が[カラーのカバー表紙](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/main/bookcover)になっています。
 - PDF版では[CC BY 4.0ライセンス](#license)を明記しました。
+
+### バージョンについて
+
+- n.0.0: 増補改訂版。章の追加など。もし印刷版が第2版に更新されることがあれば、その際にも。
+- 0.n.0: セクションの追加など、目次が変更される場合。数パラグラフにおよぶような正誤修正など。
+- 0.0.n: 誤字脱字、事実誤認などに起因するセンテンス単位の正誤修正など。PDFのインタラクティブ性の向上やレイアウトの改善など簡易なQoLのための変更を含む。
+
 
 # 著者について
 
