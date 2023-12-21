@@ -1,36 +1,27 @@
 <img src="https://github.com/xerroxcopy/critiques-of-evolution-thinking/assets/13182777/e73d77e4-b61f-4db6-9791-c37d4408d383" width="400">
 
-# 『進化思考批判集』のサポートページ
+# 『進化思考批判集: デザインと進化学の観点から』のサポートページ
 
-太刀川(2021)『進化思考: 生き残るコンセプトをつくる「変異と適応」』第1版を批判した、伊藤, 林, 松井(2023)『進化思考批判集: デザインと進化学の観点から』のサポートページです。書籍の電子書籍版はインタラクティブなPDF（V1.1.0）として2023-12-15に本サポートページからリリースを予定しています。
-
+太刀川(2021)『進化思考: 生き残るコンセプトをつくる「変異と適応」』第1版を批判した、伊藤, 林, 松井(2023)『進化思考批判集: デザインと進化学の観点から』のサポートページです。書籍の電子書籍版をインタラクティブなPDFとして[ダウンロード（最新版）](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases/latest/download/critiques-of-evolution-thinking.pdf)できます。最新版のリリースは[こちら](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases/latest)。PDF版の各バージョンは本サポートページの右下[releases](https://github.com/xerroxcopy/critiques-of-evolution-thinking/releases)から閲覧できます。
 印刷版の書籍は[Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E9%80%B2%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89-%E4%BC%8A%E8%97%A4%E6%BD%A4/dp/4991298814/ref=sr_1_1?crid=MVZXUP99M6JN&keywords=%E9%80%B2%E5%8C%96%E6%80%9D%E8%80%83%E6%89%B9%E5%88%A4%E9%9B%86&qid=1702548135&sprefix=%2Caps%2C374&sr=8-1)やお近くの書店から¥2200で購入可能です。
 
 出版局のウェブサイトは[こちら](http://press.rcfi.design/)。本書の書誌情報ページは準備中です。
 
 # 修正、正誤表など
 
-誤字脱字、内容の誤り、改善案などがありましたら本レポジトリのIssuesに投稿いただくか、本READMEの下部にある著者の連絡先までご連絡ください。新しい電子書籍のバージョンで可能な限り対応します。
+誤字脱字、内容の誤り、改善案などがありましたら本レポジトリの[Issues](https://github.com/xerroxcopy/critiques-of-evolution-thinking/issues)に投稿いただくか、本READMEの下部にある[著者の連絡先](著者に連絡する)までご連絡ください。新しい電子書籍のバージョンで可能な限り対応します。
+
+[印刷版書籍の正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)。
+
+### PDF版と[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)との差異
 
 
-## changelogs & todos
-
-
-
-### 印刷版書籍の正誤表
-
-[Google Spreadsheets](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)
-
-### PDF版V1.1.0と[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)との差異
-
-
-- **V1.1.0では図表はカラーで表示されます。**[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の図表はすべてグレースケールになっています。
-- V1.1.0では脚注や引用文献は番号をクリックしても該当するページにジャンプします。
-- V1.1.0では外部ウェブサイトへのハイパーリンクが貼られています。
-- V1.1.0では本文の内容にいくつかの修正が施されています（[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)を参照）。
-- 
-- 扉がカラーのカバー表紙になっています。
-- CC BY 4.0ライセンスを明記しました。
+- **PDF版では図表はカラーで表示されます。**[印刷版](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/1.0.0)の図表はすべてグレースケールになっています。
+- PDF版では脚注や引用文献は番号をクリックすると該当するページにジャンプします。
+- PDF版では外部ウェブサイトへのハイパーリンクが貼られています。
+- PDF版では本文の内容にいくつかの修正が施されています（[正誤表](https://docs.google.com/spreadsheets/d/1kBQVRnizuNQKd_WJDbRE76dxKoDw117orOidol-hVOI/edit?sharingaction=ownershiptransfer#gid=0)を参照）。
+- PDF版では扉が[カラーのカバー表紙](https://github.com/xerroxcopy/critiques-of-evolution-thinking/tree/main/bookcover)になっています。
+- PDF版では[CC BY 4.0ライセンス](#license)を明記しました。
 
 # 著者について
 
